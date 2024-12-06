@@ -6,4 +6,6 @@ theme = "hugo-profile"
 [params]
   subtitle = "A minimalistic blog for my technical writings"
   profilePicture = "/assets/images/profile_photo.jpeg"
-  resumeLink = "/resume/
+  resumeLink = "/resume/"
+  showPostsOnHomePage = true
+  githubUsername = "jabezzy2000"
