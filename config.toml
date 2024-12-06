@@ -1,0 +1,9 @@
+baseURL = "https://jabezzy.github.io/"
+languageCode = "en-us"
+title = "My Technical Blog"
+theme = "hugo-profile"
+
+[params]
+  subtitle = "A minimalistic blog for my technical writings"
+  profilePicture = "/assets/images/profile_photo.jpeg"
+  resumeLink = "/resume/
